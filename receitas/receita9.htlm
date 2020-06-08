@@ -1,0 +1,40 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <DIV ID="Pagina1">
+        <h1>Bolo de recheio de morango</h1>
+
+        <img src="receita9.jpg" width="300" />
+
+        <h3>Ingredientes</h3>ss
+
+        <ol>
+            <li>1 bolo simpples tipo pullman (pode ser indrualizado) </li>
+            <li>225g decream cheese, amolecido</li>
+            <li>1/2 xicara de acucar de confeiteiro</li>
+            <li>1 colher de cha de raspa de limao</li>
+            <li>1 xicara de morangos, em cubos</li>
+            
+    
+
+        </ol>
+
+        <h3>Modo de Preparo</h3>
+
+        <ol>
+            <li>Retire o centro do bolo, deixando 1,3 centímetros de borda no fundo e nas laterais.</li>
+            <li>Em uma tigela média, use uma batedeira para bater o cream cheese, o açúcar de confeiteiro e a raspa de limão até ficar homogêneo.</li>
+            <li> Acrescente os morangos e bata até a mistura adquirir uma cor rosa claro, mas ainda com belos pedaços de morango.</li>
+            <li>Coloque a mistura de cream cheese dentro da parte oca do bolo.*</li>
+            <li>Leve a geladeira por pelo menos 8 horas</li>
+        
+           
+        </ol>
+    </DIV>
+
+    <footer style="background-color: #212121; " >
+        <p ><a href="../index.html" style="color: white;">Pagina Inicial</a></p>
